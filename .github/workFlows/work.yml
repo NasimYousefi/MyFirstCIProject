@@ -6,7 +6,7 @@ on:
 jobs:
   name: nasim
     runs-on: ubuntu-latest
-  steps:
-   - name: echo
-     run : echo nasim
+    steps:
+      - name: echo
+          run : echo nasim
  
