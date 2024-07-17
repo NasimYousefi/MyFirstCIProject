@@ -1,12 +1,12 @@
 name: MyFirstCIProject
 on: 
-  push:
-   branches:
+  push: 
+   branches: 
        - main
-jobs:
-  build:
+jobs: 
+  build: 
     runs-on: ubuntu-latest
-    steps:
+    steps: 
       - name: echo
         run : echo nasim
  
