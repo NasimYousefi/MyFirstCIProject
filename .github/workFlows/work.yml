@@ -12,7 +12,7 @@
 #           run : echo nasim
  
 
- name: MyFirstCIProject
+name: MyFirstCIProject
 on: 
   push: 
     branches: 
